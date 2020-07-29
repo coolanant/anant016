@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+```diff
+- Contribute where your passion lies 
+```
+
+```diff
+@@ Some of my projects are live. Do check them out. @@
+@@ If you like the work. Kindly star repository ✨, It would mean a lot me. @@
+```
+If you are interested in some Theoretical Stuff afart from all these projects - [Checkout my 2nd Account](https://github.com/coolanant)
 <!--
 **Anant016/anant016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
