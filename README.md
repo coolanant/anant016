@@ -8,7 +8,7 @@
 ### Hi there 👋
 
 ```diff
-@@ Some of my projects are live. Do check them out. @@
+@@ Some of my projects are live. Do check them out.😎 @@
 - If you like the work. Kindly star repository ⭐, It would mean a lot me.
 ```
 
@@ -18,7 +18,7 @@
 
 <details close>
 <summary><b><i>Click to Expand </i></b></summary>
-If you are interested in some Theoretical Stuff apart from all these projects - [Checkout my 2nd Account](https://github.com/coolanant) ❤️
+If you are interested in some ⚡Theoretical Stuff, apart from all these projects - <a href="https://github.com/coolanant">Check my 2nd Account</a> ❤️
 
 </details>
 
