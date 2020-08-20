@@ -10,11 +10,18 @@
 @@ Some of my projects are live. Do check them out. @@
 - If you like the work. Kindly star repository ✨, It would mean a lot me.
 ```
+
+![Anant's github stats](https://github-readme-stats.vercel.app/api?username=anant016&show_icons=true)
+<!--<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anant016&hide_border=true&hide=javascript,html">-->
+
+
 If you are interested in some Theoretical Stuff apart from all these projects - [Checkout my 2nd Account](https://github.com/coolanant)
+
+
+
+
 <!--
 **Anant016/anant016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![Anant's github stats](https://github-readme-stats.vercel.app/api?username=anant016&show_icons=true&theme=radical)
 
 Here are some ideas to get you started:
 
