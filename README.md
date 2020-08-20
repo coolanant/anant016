@@ -9,7 +9,7 @@
 
 ```diff
 @@ Some of my projects are live. Do check them out. @@
-- If you like the work. Kindly star repository ✨, It would mean a lot me.
+- If you like the work. Kindly star repository ⭐, It would mean a lot me.
 ```
 
 ![Anant's github stats](https://github-readme-stats.vercel.app/api?username=anant016&show_icons=true)
@@ -17,8 +17,8 @@
 
 
 <details close>
- <summary><b><i>Click to Expand </i></b></summary>
-If you are interested in some Theoretical Stuff apart from all these projects - [Checkout my 2nd Account](https://github.com/coolanant)
+<summary><b><i>Click to Expand </i></b></summary>
+If you are interested in some Theoretical Stuff apart from all these projects - [Checkout my 2nd Account](https://github.com/coolanant) ❤️
 
 </details>
 
