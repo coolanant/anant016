@@ -1,3 +1,6 @@
+[![HitCount](http://hits.dwyl.com/anant016/ANANT016.svg)](http://hits.dwyl.com/anant016/ANANT016)
+
+
 ### Hi there 👋
 
 ```diff
