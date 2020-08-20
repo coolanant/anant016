@@ -18,8 +18,14 @@
 
 <details close>
 <summary><b><i>Click to Expand </i></b></summary>
-If you are interested in some ⚡Theoretical Stuff, apart from all these projects - <a href="https://github.com/coolanant" target="_blank">Check my 2nd Account</a> ❤️
-
+<ul>
+ <li>
+  If you are interested in some ⚡Theoretical Stuff, apart from all these projects - <a href="https://github.com/coolanant" target="_blank">Check my 2nd Account</a> ❤️
+ </li>
+ <li>
+  <a target="_blank" href="https://www.udemy.com/user/anant-rungta-5/">Check my Udemy Courses</a>
+ </li>
+<ul>
 </details>
 
 
