@@ -1,4 +1,4 @@
-[![HitCount](http://hits.dwyl.com/anant016/ANANT016.svg)](http://hits.dwyl.com/anant016/ANANT016)
+<!--[![HitCount](http://hits.dwyl.com/anant016/ANANT016.svg)](http://hits.dwyl.com/anant016/ANANT016) -->
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=anant016" alt="anant016" /> </p>
   
 
@@ -13,6 +13,8 @@
 If you are interested in some Theoretical Stuff apart from all these projects - [Checkout my 2nd Account](https://github.com/coolanant)
 <!--
 **Anant016/anant016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![Anant's github stats](https://github-readme-stats.vercel.app/api?username=anant016&show_icons=true&theme=radical)
 
 Here are some ideas to get you started:
 
